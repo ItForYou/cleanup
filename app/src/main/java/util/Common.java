@@ -36,6 +36,7 @@ public class Common {
     static final String PREF = "LOCKER";
     public static String TOKEN = "";
     public static String logout = "NO";
+    //
 
     /*
     public static String getMyNumber(Activity act){
